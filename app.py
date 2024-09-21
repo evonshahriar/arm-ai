@@ -113,7 +113,7 @@ def main():
                 | 4  | **Generate Hypotheses**        | Develop research questions to guide your study.        |
                 | 5  | **Create Workflows**           | Tailor workflows according to your hypothesis.         |
                 | 6  | **Explore Related Papers**     | Broaden your understanding by exploring related work.  |
-                | 7  | **Consult Experts**            | Get real-time advice on your hypothesis from experts.  |
+                | 7  | **Consult Experts**            | Get real-time advice on your hypothesis from simulated experts.  |
 
                 _Turn your ideas into impactful research with expert AI assistance. Let’s get started!_
                 """
