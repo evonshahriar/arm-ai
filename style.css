@@ -93,7 +93,7 @@ p {
 }
 
 .stButton > button:hover {
-    background-color: #333333;  /* Slightly lighter black on hover */
+    background-color: #6C63FF;  /* Slightly lighter black on hover */
     transform: scale(1.1);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);  /* Larger black shadow on hover */
     cursor: pointer;
