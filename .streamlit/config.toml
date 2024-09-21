@@ -1,1 +1,6 @@
-
+[theme]
+backgroundColor = "#1E1E2F" # Dark background
+font = "sans serif" 
+primaryColor = "#6C63FF" # This keeps the accent color the same
+secondaryBackgroundColor = "#2A2A40" # Slightly lighter for contrast
+textColor = "#E0E0E0" # Light text for readability
