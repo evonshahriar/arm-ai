@@ -1,0 +1,6 @@
+streamlit
+openai==0.27.10
+PyMuPDF
+python-docx
+requests
+streamlit-option-menu
